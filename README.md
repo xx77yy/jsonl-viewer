@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PyQt6](https://img.shields.io/badge/PyQt6-Latest-green.svg)](https://pypi.org/project/PyQt6/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/jsonl-viewer?style=social)](https://github.com/yourusername/jsonl-viewer)
+[![GitHub Stars](https://img.shields.io/github/stars/xx77yy/jsonl-viewer?style=social)](https://github.com/xx77yy/jsonl-viewer)
 
 > **The Ultimate JSONL File Viewer & Dataset Explorer** - View, analyze, search, and export large JSONL datasets with ease. Perfect for AI/ML datasets, log files, data scientists, and developers.
 
